@@ -1,0 +1,6 @@
+Here are some steps you can take to troubleshoot this error.
+
+Verify that the host IP address is I am using is correct.
+Verify that my network supports connectivity over the SSH port being used. Some public networks may block port 22 or custom SSH ports. 
+for example, testing other hosts using the same port with a known working SSH server. This can help to determine if the issue isn’t specific to just a particular server.
+Verify the  firewall rules. Check that they’re not set to a default policy of DROP and the port is not added to allow connections.

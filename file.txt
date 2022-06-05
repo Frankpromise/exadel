@@ -1,0 +1,7 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0    896   528 ?        Sl   15:27   0:00 /init
+root         7  0.0  0.0    896    84 ?        Ss   15:27   0:00 /init
+root         8  0.0  0.0    896    84 ?        S    15:27   0:00 /init
+promise      9  0.0  0.0  23224  5116 pts/0    Ss   15:27   0:00 -bash
+promise     85  0.0  0.0  23224  3504 pts/0    S+   16:27   0:00 -bash
+promise     86  0.0  0.0  37804  3292 pts/0    R+   16:27   0:00 ps aux
